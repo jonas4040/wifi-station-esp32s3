@@ -1,1 +1,1 @@
-void func(void);
+void wifi_init(void);
