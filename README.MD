@@ -28,3 +28,5 @@
 endmenu
         </code>
    </pre>
+
+    - Executar : $ idf.py menuconfig
